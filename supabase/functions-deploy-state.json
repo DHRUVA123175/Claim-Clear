@@ -1,0 +1,17 @@
+{
+  "projectId": "71269023",
+  "functions": {
+    "case-ops": {
+      "hasChanged": true,
+      "hash": "1eb8960a69b97d78e7e2d8cf18e13d78decb165753daf2901238ec61392a7cfb"
+    },
+    "paypal-capture": {
+      "hasChanged": true,
+      "hash": "be8351d3b82baa94e10c1df5eb1ce60ad8ffe82e6e3a8adec579ef3bba6d51a3"
+    },
+    "upload-denial": {
+      "hasChanged": true,
+      "hash": "e5c302c1961f6f4ca1dd5a2b519acb5125c007ce93f9da3dcc2005084dfc4e9a"
+    }
+  }
+}

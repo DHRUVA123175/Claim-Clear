@@ -1,0 +1,11 @@
+[functions.upload-denial]
+verify_jwt = false
+entrypoint = "./functions/upload-denial/index.ts"
+
+[functions.case-ops]
+verify_jwt = true
+entrypoint = "./functions/case-ops/index.ts"
+
+[functions.paypal-capture]
+verify_jwt = true
+entrypoint = "./functions/paypal-capture/index.ts"
