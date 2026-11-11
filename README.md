@@ -169,4 +169,4 @@ The current snapshot does not define an automated test suite. These checks valid
 
 ## Licensing
 
-No `LICENSE` file is included. Public visibility on GitHub does not itself grant permission to reuse, redistribute, or modify this project; obtain permission from the project owner unless a license is added.
+This project is licensed under the [MIT License](LICENSE). Use, modification, and redistribution are permitted subject to the license's conditions; the software is provided "as is" without warranty.
